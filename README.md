@@ -18,3 +18,4 @@
 - Tokyo, Japan
 - Kumamoto, Japan
 - Hyogo, Japan
+- Nagasaki, Japan
