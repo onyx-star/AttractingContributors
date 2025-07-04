@@ -8,3 +8,4 @@
 - Chichibugahama-Beach(Kagawa)
 - Tenma (Osaka)
 - Nara Park(Nara)
+- Yamato Saidaiji(Nara)
