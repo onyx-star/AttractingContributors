@@ -14,6 +14,7 @@
 - Tumen, China
 - Kyoto, Japan
 - Nagano, Japan
+- Chittagong, Bangladesh
 - Tokyo, Japan
 - Kumamoto, Japan
 - Hyogo, Japan
