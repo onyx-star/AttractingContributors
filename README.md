@@ -1,5 +1,5 @@
-# Please indicate your favourite places to eat near NAIST.
+# What's a famous dish from your hometown? 有名な郷土料理はありますか？
 
-# List of place
-- mamemame saisai
-- Gusto
+# List of dish
+- 
+- 
